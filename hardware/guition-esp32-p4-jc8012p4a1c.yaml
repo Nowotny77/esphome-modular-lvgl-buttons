@@ -16,7 +16,7 @@ substitutions:
 esphome:
   min_version: 2026.1.0
   project:
-    name: "Guition.ESP32-P4-JC8012P4A1C_I_W_Y"
+    name: "Guition.ESP32-P4-JC8012P4A1C"
     version: "1.0"
 
 esp32:
