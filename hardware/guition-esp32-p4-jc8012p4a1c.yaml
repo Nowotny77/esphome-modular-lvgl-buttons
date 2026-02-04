@@ -106,7 +106,7 @@ touchscreen:
     reset_pin: GPIO22
     interrupt_pin: GPIO21
     transform:
-      swap_xy: true
+      swap_xy: false
       mirror_x: false
       mirror_y: true   
 
@@ -119,7 +119,7 @@ display:
     id: my_display
     update_interval: never
     reset_pin: GPIO27
-    rotation: 90
+    rotation: 180
     auto_clear_enabled: false
     color_order: RGB
     dimensions:
